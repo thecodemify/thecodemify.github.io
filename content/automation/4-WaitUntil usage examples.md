@@ -15,7 +15,7 @@ Example conclusion: Wait 10 seconds for fake link to be displayed. If it will no
 // It waits for true to be returned
 browser.waitUntil(() => {
 			return this.yourPageObject.fakeLnk.isDisplayed();
-		}, 10000, 'Fake Link did not show up after 10 seconds');
+		}, { timeout: 10000, timeoutMsg:'Fake Link did not show up after 10 seconds'});
 ```
 
 WaitUntil 10 elements are visible
@@ -24,27 +24,27 @@ browser.waitUntil(() => {
 			return $$('.tenElementsClass').map((elem) => elem.isDisplayed()).length > 9;
 			// Same code below but element is in page object
 			// return this.pageObj.yourElements.map((elem) => elem.isDisplayed()).length > 9;
-		}, 10000, 'Ten elements were not visible');
+		}, { timeout: 10000, timeoutMsg:'Ten elements were not visible'});
 ```
 
 WaitUntil text equals to expected
 ```javascript
 browser.waitUntil(() => {
 			return this.yourPageObject.fakeTextLbl.getText() === 'I love rock & roll!'
-		}, 10000, '"I love rock & roll "');
+		}, { timeout: 10000, timeoutMsg:'"I love rock & roll "'});
 ```
 
 WaitUntil text is not there
 ```javascript
 browser.waitUntil(() => {
 			return this.yourPageObject.fakeTextLbl.getText() != 'I love rock & roll!'
-		}, 10000, '"I love rock & roll "');
+		}, {timeout: 10000, timeoutMsg:'"I love rock & roll "'});
 ```
 
 WaitUntil url contains word friends
 ```javascript
 browser.waitUntil(() => {
 	return browser.getUrl().includes('/friends');
-		}, 10000, '"I love rock & roll "');
+		}, {timeout: 10000, timeoutMsg:'"I love rock & roll "'});
 ```
 
