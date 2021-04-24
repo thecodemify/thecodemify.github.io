@@ -39,7 +39,7 @@ html, body {
 
 a {
   transition: color 0.15s;
-  color: #663399;
+  color: #001f3f;
 }
 
 body {
@@ -61,7 +61,7 @@ body {
 }
 
 .registerbtn {
-  background-color: #663399;
+  background-color: #001f3f;
   color: white;
   padding: 16px 20px;
   /* margin: 8px 0; */
@@ -165,7 +165,7 @@ a:hover {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-  background-color: #542683;
+  background-color: #001f3f;
 }
 
 .headerWrapper {
@@ -279,17 +279,17 @@ a:hover {
 
 /* Header section starts here */
 .navBarDefault {
-  background-color: #372476;
+  background-color: #001f3f;
   border-radius: 0;
   border-top: 0;
   margin-bottom: 0;
   border: 0;
   display: flex;
   align-items: center;
-  box-shadow: -1px 0px 4px 1px rgba(175,158,232,.4);
-  -webkit-box-shadow: -1px 0px 4px 1px rgba(175,158,232,.4);
-  -moz-box-shadow: -1px 0px 4px 1px rgba(175,158,232,.8);
-  -o-box-shadow: -1px 0px 4px 1px rgba(175,158,232,.4);
+  box-shadow: -1px 0px 4px 1px rgb(0, 31, 61);
+  -webkit-box-shadow: -1px 0px 4px 1px rgb(0, 31, 61);
+  -moz-box-shadow: -1px 0px 4px 1px rgb(0, 31, 61);
+  -o-box-shadow: -1px 0px 4px 1px rgb(0, 31, 61);
   z-index: 1;
   padding: 15px;
   position: relative;
@@ -366,14 +366,14 @@ pre {
 .headerNav {
   font-family: 'Roboto';
   padding: 0px 24px;
-  color: rgb(116, 76, 188);
+  color: rgb(0, 31, 61);
   font-size: 16px;
   font-weight: 500;
   line-height: 1em;
 }
 
 .headerNav a {
-  color: rgb(116, 76, 188);
+  color: rgb(0, 31, 61);
   text-decoration: none;
 }
 
@@ -480,11 +480,11 @@ pre {
   color: #fff !important;
 }
 .showFrontLine .item >a:hover {
-  background-color: #542683;
+  background-color: #001f3f;
 }
 .showFrontLine .active >a {
   color: #fff;
-  background-color: #473485;
+  background-color: #001f3f;
 }
 
 .sideBarUL  .item .item{
@@ -506,7 +506,7 @@ pre {
   border-color: rgb(230,236,241) !important;
   border-style: solid none solid solid;
   border-width: 1px 0px 1px 1px;
-  background-color: #542683;
+  background-color: #001f3f;
   color: #fff;
 }
 

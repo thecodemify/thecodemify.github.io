@@ -7,7 +7,7 @@ const config = {
 	"header": {
 		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
 		"logoLink": "https://Codemify.com",
-		"title": "Codemify Academy",
+		"title": "Codemify.com",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
