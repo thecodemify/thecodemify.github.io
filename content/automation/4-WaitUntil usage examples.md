@@ -14,7 +14,7 @@ Example conclusion: Wait 10 seconds for fake link to be displayed. If it will no
 ```javascript
 // It waits for true to be returned
 browser.waitUntil(() => {
-			return this.yourPageObject.fakeLnk.isDisplayed();
+			return yourPageObject.fakeLnk.isDisplayed();
 		}, { timeout: 10000, timeoutMsg:'Fake Link did not show up after 10 seconds'});
 ```
 
@@ -23,21 +23,21 @@ WaitUntil 10 elements are visible
 browser.waitUntil(() => {
 			return $$('.tenElementsClass').map((elem) => elem.isDisplayed()).length > 9;
 			// Same code below but element is in page object
-			// return this.pageObj.yourElements.map((elem) => elem.isDisplayed()).length > 9;
+			// return pageObj.yourElements.map((elem) => elem.isDisplayed()).length > 9;
 		}, { timeout: 10000, timeoutMsg:'Ten elements were not visible'});
 ```
 
 WaitUntil text equals to expected
 ```javascript
 browser.waitUntil(() => {
-			return this.yourPageObject.fakeTextLbl.getText() === 'I love rock & roll!'
+			return yourPageObject.fakeTextLbl.getText() === 'I love rock & roll!'
 		}, { timeout: 10000, timeoutMsg:'"I love rock & roll "'});
 ```
 
 WaitUntil text is not there
 ```javascript
 browser.waitUntil(() => {
-			return this.yourPageObject.fakeTextLbl.getText() != 'I love rock & roll!'
+			return yourPageObject.fakeTextLbl.getText() != 'I love rock & roll!'
 		}, {timeout: 10000, timeoutMsg:'"I love rock & roll "'});
 ```
 
