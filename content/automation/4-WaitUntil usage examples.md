@@ -44,8 +44,7 @@ browser.waitUntil(() => {
 WaitUntil url contains word friends
 ```javascript
 browser.waitUntil(() => {
-	let thisUrl = browser.getUrl();
-	return thisUrl.should.containEql('/friends');
+	return browser.getUrl().includes('/friends');
 		}, 10000, '"I love rock & roll "');
 ```
 
