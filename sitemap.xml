@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://Codemify.com/automation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/api</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/interview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/starter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/wdio_integrations</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/git</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/wdio_integrations/1-Visual-Regression-Webdirverio</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/starter/2-Bug-reports</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/starter/1-Starter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/starter/3-Types-of-testing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/git/1-git-vs-github</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/nodejs/1-how-to-install-nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/git/2-git-situations-for-newbies</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/interview/interview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/automation/1-Automation-with-WebdriverIO</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/git/3-git-how-to-check-pull-requests</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/automation/3-What-is-wdio-conf-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/automation/6-CSS-Selectors</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/automation/4-WaitUntil usage examples</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/automation/5-How-to-use-map-method-in-automation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/automation/8-Assertions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/automation/7-The-power-of-XPath</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/automation/2-Page-Object-Model copy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/api/1-What-is-api</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/automation/9-Errors-explanation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/api/2. API-testing-with-postman</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/api/3-How-to-test-apis</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/api/4-API-status-codes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://Codemify.com/about/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/automation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/api</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/interview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/starter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/wdio_integrations</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/git</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/wdio_integrations/1-Visual-Regression-Webdirverio</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/starter/2-Bug-reports</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/starter/1-Starter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/starter/3-Types-of-testing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/git/1-git-vs-github</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/nodejs/1-how-to-install-nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/git/2-git-situations-for-newbies</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/interview/interview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/automation/1-Automation-with-WebdriverIO</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/git/3-git-how-to-check-pull-requests</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/automation/3-What-is-wdio-conf-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/automation/6-CSS-Selectors</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/automation/4-WaitUntil usage examples</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/automation/5-How-to-use-map-method-in-automation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/automation/8-Assertions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/automation/7-The-power-of-XPath</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/automation/2-Page-Object-Model copy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/api/1-What-is-api</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/automation/9-Errors-explanation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/api/2. API-testing-with-postman</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/api/3-How-to-test-apis</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/api/4-API-status-codes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/about/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
