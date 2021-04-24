@@ -1,6 +1,6 @@
 const config = {
 	"gatsby": {
-		"pathPrefix": "/thecodemify",
+		"pathPrefix": "/",
 		"siteUrl": "https://Codemify.com",
 		"gaTrackingId": null
 	},
