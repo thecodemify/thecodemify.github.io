@@ -19,18 +19,19 @@ metaDescription: "Learn how to automation Visual Regression with Codemify"
 3. Update services section in your config file to have an extra value(example contains chromedriver as a first one)
 ```javascript
     services: [
-		['chromedriver'],
+        ['chromedriver'],
         ['image-comparison', 
         // The options
         {
             // Some options, see the docs for more
-            baselineFolder: join(process.cwd(), './tests/sauceLabsBaseline/'),
+            baselineFolder: join(process.cwd(), './tests/'),
             formatImageName: '{tag}-{logName}-{width}x{height}',
             screenshotPath: join(process.cwd(), '.tmp/'),
             savePerInstance: true,
             autoSaveBaseline: true,
             blockOutStatusBar: true,
             blockOutToolBar: true,
+            ignoreNothing: true  // By default, it errors our only when mismatch is above 1.23% . This option will error out even with smallest change
             // ... more options
         }], 
     ],
