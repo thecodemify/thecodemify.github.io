@@ -31,7 +31,7 @@ metaDescription: "Learn how to automation Visual Regression with Codemify"
             autoSaveBaseline: true,
             blockOutStatusBar: true,
             blockOutToolBar: true,
-            ignoreNothing: true  // By default, it errors our only when mismatch is above 1.23% . This option will error out even with smallest change
+            ignoreNothing: true  // Without this option, it errors out only when mismatch is above 1.23%(by default)
             // ... more options
         }], 
     ],
