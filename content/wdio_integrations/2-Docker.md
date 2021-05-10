@@ -45,17 +45,17 @@ CMD npm test
 ```
 
 **2. Create new docker image by running this command in a terminal:**
-
+```shell
   docker build .
-
+```
 **3. Find id of your new docker image by running:**
-
+```shell
   docker images
-
-**4. Run your test inside docker container by specifying first 3 characters of your docker image id(9b2 is an example):**
-
-  docker run -it 4b2
-
+```
+**4. Run your test inside docker container by specifying first 3 characters of your docker image id(b92 is an example):**
+```shell
+  docker run -it b92
+```
 
 Bingo! Now you know how to dockerize your test app. Let if you have any questions, feel free to send them by means below!
 
