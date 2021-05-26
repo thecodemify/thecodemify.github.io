@@ -46,7 +46,7 @@ metaDescription: "QA Academy for everyone"
 - Manual QA Engineer - 500$ per month
 
 
-<a href="https://forms.gle/RRcWipp4vhiEkX9K8" target="_blank">
+<a href="https://forms.gle/wHmmsTncW8ysqLBK8" target="_blank">
    <button onClick="fbq('track', 'Purchase');" class="registerbtn" >Register Now</button>
 </a>
 
