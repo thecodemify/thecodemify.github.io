@@ -8,9 +8,7 @@ metaDescription: "How to integrate allure reporter with WebdriverIO / WDIO"
 
 Prerequisite: NodeJS, and WDIO framework installed on your machine
 
-**1. Create Dockerfile - or simply use this one:**
-
-Note: you need to create Dockerfile with no extension(no .js no .anything) in the framework directory
+**1. Install allure reporter**
 
 ```shell
   npm install @wdio/allure-reporter --save-dev
