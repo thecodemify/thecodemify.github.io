@@ -11,6 +11,7 @@
 <url> <loc>https://thecodemify.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/interview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/wdio_integrations/4-Video-reporter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/about/privacy-poclity</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/wdio_integrations/3-How-to-install-allure-reporter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/starter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -35,5 +36,4 @@
 <url> <loc>https://thecodemify.github.io/api/2. API-testing-with-postman</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/api/3-How-to-test-apis</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/api/4-API-status-codes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://thecodemify.github.io/about/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
