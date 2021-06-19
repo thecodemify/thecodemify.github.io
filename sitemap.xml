@@ -13,8 +13,9 @@
 <url> <loc>https://thecodemify.github.io/wdio_integrations/4-Video-reporter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/about/privacy-policy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/wdio_integrations/3-How-to-install-allure-reporter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://thecodemify.github.io/about/Terms-of-use</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/starter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/about/course-agreement</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/about/Terms-of-use</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/wdio_integrations</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/git</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
