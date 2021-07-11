@@ -10,12 +10,12 @@ Test case - is a detailed description of how to test certain feature/function. A
 **Why do we need test cases?**
 There are two main reasons. Let's imagine you are a first qa in the company to make it real.
 
-Imagine that you are the first and the only QA in the lovePooh company. Every week your developers add new features to the lovePooh.io
+Imagine that you are the first and the only QA in the google. Every week your developers add new features to the google.com
 
 Do you think in 6 months you will remember every feature and function of the site? How about it 2 years?
 I would forget. And I'm pretty sure you would as well. That's exactly why we need to have test cases.
 
-1. To keep track of what and how app needs to be tests.
+1. To keep track of what and how app needs to be tests
 
 2. To know what to automate
 
@@ -35,9 +35,9 @@ Test case might look differently in different companies, but it will will always
 
 5. Type - which is either Automated, Needs Automation, Needs Automation update, or Always manual
 
-Lets see how does it actually look like in the most popular bug tracking system in the world (Testrail)
+Lets see how does it actually look like in the most popular test case management system in the world (Testrail)
 
-![testrail](https://user-images.githubusercontent.com/33443927/125178586-71c74f80-e19b-11eb-9934-04f15c1e66c3.png)
+![testrail](https://user-images.githubusercontent.com/33443927/125179187-d3d68380-e1a0-11eb-8546-6716e93605c1.png)
 
 Note: if your testrail instance is integrated with Jira, and if on of your test cases failed, you should be able to create bug report with one button click in testrail!
 
