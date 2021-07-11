@@ -17,6 +17,7 @@
 <url> <loc>https://thecodemify.github.io/about/course-agreement</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/about/Terms-of-use</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/starter/4-Test-cases</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/wdio_integrations</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/git</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/starter/2-Bug-reports</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
