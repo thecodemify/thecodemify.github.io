@@ -18,6 +18,7 @@
 <url> <loc>https://thecodemify.github.io/about/Terms-of-use</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/starter/4-Test-cases</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/api/1-What-is-api</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/wdio_integrations</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/git</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/starter/2-Bug-reports</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -34,7 +35,6 @@
 <url> <loc>https://thecodemify.github.io/automation/8-Assertions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/automation/7-The-power-of-XPath</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/automation/2-Page-Object-Model copy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://thecodemify.github.io/api/1-What-is-api</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/automation/9-Errors-explanation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/api/2. API-testing-with-postman</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/api/3-How-to-test-apis</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
