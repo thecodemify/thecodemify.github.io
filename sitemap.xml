@@ -19,6 +19,7 @@
 <url> <loc>https://thecodemify.github.io/nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/starter/4-Test-cases</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/api/1-What-is-api</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thecodemify.github.io/automation/1-Automation-with-WebdriverIO</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/wdio_integrations</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/git</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/starter/2-Bug-reports</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -27,7 +28,6 @@
 <url> <loc>https://thecodemify.github.io/nodejs/1-how-to-install-nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/git/2-git-situations-for-newbies</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/interview/interview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://thecodemify.github.io/automation/1-Automation-with-WebdriverIO</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/git/3-git-how-to-check-pull-requests</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/automation/3-What-is-wdio-conf-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thecodemify.github.io/automation/6-CSS-Selectors</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
