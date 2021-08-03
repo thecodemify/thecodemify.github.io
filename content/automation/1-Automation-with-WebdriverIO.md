@@ -77,7 +77,32 @@ describe('Login', () => {
 
 # 9. Remove default test folder that we not gonna use
 
-# 10. Run your test from terminal:
+# 10. Overwrite package.json file with following code
+```javascript
+{
+  "name": "codemify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx wdio wdio.conf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/cli": "^7.5.2",
+    "@wdio/local-runner": "^7.5.2",
+    "@wdio/mocha-framework": "^7.5.2",
+    "@wdio/spec-reporter": "^7.5.2",
+    "@wdio/sync": "^7.3.0",
+    "chromedriver": "^91.0.0",
+    "wdio-chromedriver-service": "^7.0.0"
+  }
+}
+```
+
+# 11. Run your test from terminal:
 ```javascript
 ./node_modules/.bin/wdio wdio.conf.js
 ```
