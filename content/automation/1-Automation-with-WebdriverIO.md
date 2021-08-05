@@ -104,7 +104,7 @@ describe('Login', () => {
 
 # 11. Run this command to update all of the versions of dependencies:
 ```javascript
-npm test
+npm i
 ```
 # 12. Run your test from terminal:
 ```javascript
