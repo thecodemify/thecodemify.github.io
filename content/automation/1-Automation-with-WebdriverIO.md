@@ -102,7 +102,11 @@ describe('Login', () => {
 }
 ```
 
-# 11. Run your test from terminal:
+# 11. Run this command to update all of the versions of dependencies:
+```javascript
+npm test
+```
+# 12. Run your test from terminal:
 ```javascript
 ./node_modules/.bin/wdio wdio.conf.js
 ```
