@@ -96,7 +96,7 @@ describe('Login', () => {
     "@wdio/mocha-framework": "^7.5.2",
     "@wdio/spec-reporter": "^7.5.2",
     "@wdio/sync": "^7.3.0",
-    "chromedriver": "^91.0.0",
+    "chromedriver": "^93.0.0",
     "wdio-chromedriver-service": "^7.0.0"
   }
 }
